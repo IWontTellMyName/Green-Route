@@ -1,0 +1,1509 @@
+<resources>
+    <string name="app_name">Green Route</string>
+    <string name="select_Source">Select Source</string>
+    <string-array name="Places">
+        <item>10 Mile Bazar</item>
+        <item>10 No. Majhipara</item>
+        <item>11 Mile</item>
+        <item>4no. Bridge</item>
+        <item>58 Gate</item>
+        <item>8no. Kalibari</item>
+        <item>Aantpur</item>
+        <item>Acharipara</item>
+        <item>Acropolis Mall</item>
+        <item>Adampur</item>
+        <item>Addhabazar</item>
+        <item>Adharmanik</item>
+        <item>Adhata More</item>
+        <item>Adisaptagram</item>
+        <item>Agarhati</item>
+        <item>Agarpara Station</item>
+        <item>Agunshi More</item>
+        <item>Ahiritola</item>
+        <item>Airport 1no.</item>
+        <item>Airport 3no.</item>
+        <item>Airport Terminal</item>
+        <item>Ajaynagar</item>
+        <item>Akankha More</item>
+        <item>Akhratala</item>
+        <item>Akra Bazar</item>
+        <item>Akra Fatak</item>
+        <item>Akra Rabindra Nagar</item>
+        <item>Akra Station</item>
+        <item>Alambazar</item>
+        <item>Alampur</item>
+        <item>Aliah University</item>
+        <item>Alipore Court</item>
+        <item>Alipore Zoo</item>
+        <item>Amdanga</item>
+        <item>Amherst Street</item>
+        <item>Aminpur</item>
+        <item>Amity University</item>
+        <item>Amjhara</item>
+        <item>Amkola</item>
+        <item>Amrabati</item>
+        <item>Amta</item>
+        <item>Amtala</item>
+        <item>Amtala Phari</item>
+        <item>Anandapur</item>
+        <item>Anantapur</item>
+        <item>Anara</item>
+        <item>Anchna</item>
+        <item>Andul Bazar</item>
+        <item>Andul Station</item>
+        <item>Angarsone</item>
+        <item>Angrail</item>
+        <item>Aniya</item>
+        <item>Ankurhati</item>
+        <item>Antila Bridge</item>
+        <item>Anwar Shah Road</item>
+        <item>Apollo Hospital</item>
+        <item>Aquatica</item>
+        <item>Arambagh</item>
+        <item>Arapanch</item>
+        <item>Argori More</item>
+        <item>Ariadaha</item>
+        <item>Asansol</item>
+        <item>Ashari</item>
+        <item>Asharu Bazar</item>
+        <item>Ashoknagar Station</item>
+        <item>Ashubabu Bazar</item>
+        <item>Ashwini Nagar</item>
+        <item>Atharobanki</item>
+        <item>Aturia</item>
+        <item>Aturia Bazar</item>
+        <item>Aushbali</item>
+        <item>Authpur</item>
+        <item>Auxilium Parish Church</item>
+        <item>Avani Mall</item>
+        <item>Awalsiddhi</item>
+        <item>Axis Mall</item>
+        <item>Azabnagar</item>
+        <item>B Garden</item>
+        <item>BBD Bag</item>
+        <item>BK Paul More</item>
+        <item>BNR Hospital</item>
+        <item>BT College</item>
+        <item>Babanpur</item>
+        <item>Bablatala</item>
+        <item>Babubazar</item>
+        <item>Babughat</item>
+        <item>Baburhat</item>
+        <item>Badamtala</item>
+        <item>Badarhat</item>
+        <item>Badartala</item>
+        <item>Badir More</item>
+        <item>Badu Bazar</item>
+        <item>Baduria</item>
+        <item>Baduria Bazar</item>
+        <item>Bagaria</item>
+        <item>Bagbazar</item>
+        <item>Bagdah</item>
+        <item>Bagdogra</item>
+        <item>Baghajatin</item>
+        <item>Bagjola Bazar</item>
+        <item>Bagkhal</item>
+        <item>Bagmore</item>
+        <item>Bagna more</item>
+        <item>Bagnan</item>
+        <item>Baguiati</item>
+        <item>Bagulakhali</item>
+        <item>Bahadurpur</item>
+        <item>Baharu</item>
+        <item>Bahirsona More</item>
+        <item>Baidyabati</item>
+        <item>Baidyapur Garage</item>
+        <item>Baidyapur Talar more</item>
+        <item>Baikunthapur</item>
+        <item>Bailani Bazar</item>
+        <item>Bainchi</item>
+        <item>Baisakhi More</item>
+        <item>Baishali</item>
+        <item>Baishnabghata</item>
+        <item>Bajitpur</item>
+        <item>Bajkul</item>
+        <item>Bakeshwar</item>
+        <item>Bakhrahat</item>
+        <item>Bakkhali</item>
+        <item>Baksara</item>
+        <item>Bakshi</item>
+        <item>Bakulia</item>
+        <item>Bakultala</item>
+        <item>Balakhali</item>
+        <item>Balikhali</item>
+        <item>Bally Bazar</item>
+        <item>Ballyghat</item>
+        <item>Ballygunge Phari</item>
+        <item>Ballygunge Station</item>
+        <item>Ballyhalt</item>
+        <item>Ballykhal</item>
+        <item>Balti Bazar</item>
+        <item>Baltikuri</item>
+        <item>Baluhati</item>
+        <item>Balurghat</item>
+        <item>Bamangachi</item>
+        <item>Bamanpukur</item>
+        <item>Bamunia</item>
+        <item>Banamalipur</item>
+        <item>Banbania</item>
+        <item>Bandel</item>
+        <item>Bandha Ghat</item>
+        <item>Baneshwarpur</item>
+        <item>Bangur Avenue</item>
+        <item>Banipur</item>
+        <item>Bank of India</item>
+        <item>Bankra Bazar</item>
+        <item>Bankura</item>
+        <item>Bansbhberia</item>
+        <item>Bansdroni</item>
+        <item>Banstala</item>
+        <item>Bantala Bazar</item>
+        <item>Bantul More</item>
+        <item>Barabazar</item>
+        <item>Baranagar Bazar</item>
+        <item>Barasat</item>
+        <item>Barbaria</item>
+        <item>Bardhaman</item>
+        <item>Bardhaman Station</item>
+        <item>Bargachia</item>
+        <item>Bargram More</item>
+        <item>Baria</item>
+        <item>Barisha</item>
+        <item>Barjora</item>
+        <item>Barnaberia</item>
+        <item>Barrackpore Chiria More</item>
+        <item>Barrackpore Court</item>
+        <item>Barrackpore Station</item>
+        <item>Bartala Bazar</item>
+        <item>Baruipur</item>
+        <item>Baruipur Hospital</item>
+        <item>Baruipur Station</item>
+        <item>Basantapur</item>
+        <item>Basanti</item>
+        <item>Basanti Chowmatha</item>
+        <item>Bashiram Bazar</item>
+        <item>Basirhat</item>
+        <item>Basubati Darbar Sharif</item>
+        <item>Basudebpur</item>
+        <item>Bata More</item>
+        <item>Bataitala Bridge</item>
+        <item>Bataitala Phari</item>
+        <item>Batanagar</item>
+        <item>Bawali</item>
+        <item>Bazetaraf</item>
+        <item>Beadon Street</item>
+        <item>Beckbagan</item>
+        <item>Behala 14no.</item>
+        <item>Behala Airport</item>
+        <item>Behala Chowrasta</item>
+        <item>Beldanga</item>
+        <item>Beleghata</item>
+        <item>Belepole</item>
+        <item>Belgachi</item>
+        <item>Belgachia</item>
+        <item>Belgharia Rathtala</item>
+        <item>Belgharia Station</item>
+        <item>Beliaghata</item>
+        <item>Beliatore</item>
+        <item>Belmuri</item>
+        <item>Belmuri Station</item>
+        <item>Belpukur</item>
+        <item>Belsingha</item>
+        <item>Belu More</item>
+        <item>Belurmath</item>
+        <item>Benar More</item>
+        <item>Bengal Chemical</item>
+        <item>Bentinck Street</item>
+        <item>Beraberi</item>
+        <item>Beraberia</item>
+        <item>Berachampa</item>
+        <item>Berhampore</item>
+        <item>Beri Gopalpur</item>
+        <item>Berui</item>
+        <item>Bethpukur</item>
+        <item>Bethuadahari</item>
+        <item>Bhabani Bhawan</item>
+        <item>Bhabla Station</item>
+        <item>Bhadrakali</item>
+        <item>Bhadreswar</item>
+        <item>Bhadura</item>
+        <item>Bhagabanpur</item>
+        <item>Bhagabanpur More</item>
+        <item>Bhagabatipur</item>
+        <item>Bhairabpur</item>
+        <item>Bhandarkhali</item>
+        <item>Bhandergacha</item>
+        <item>Bhanderhati</item>
+        <item>Bhangankhali</item>
+        <item>Bhangore</item>
+        <item>Bhasa Panchrasta Bazar</item>
+        <item>Bhasha 14no.</item>
+        <item>Bhastara</item>
+        <item>Bhatpara</item>
+        <item>Bhattanagar</item>
+        <item>Bhawani Bhawan</item>
+        <item>Bhebia Chowrasta</item>
+        <item>Bhojerhat</item>
+        <item>Bhomboler More</item>
+        <item>Bhopur</item>
+        <item>Bhotgram</item>
+        <item>Bhowanipore</item>
+        <item>Bhubaneshwari</item>
+        <item>Bibibazar</item>
+        <item>Bibirhat</item>
+        <item>Bichali Ghat</item>
+        <item>Bijaygunge bazar</item>
+        <item>Bijoygarh</item>
+        <item>Bikash Bhawan</item>
+        <item>Bindopur</item>
+        <item>Binodbati</item>
+        <item>Binodpur</item>
+        <item>Bira Chowmatha</item>
+        <item>Biradingi More</item>
+        <item>Biramnagar</item>
+        <item>Birati More</item>
+        <item>Birati Station</item>
+        <item>Birati Tantkal</item>
+        <item>Birla More</item>
+        <item>Birlapur</item>
+        <item>Birshibpur</item>
+        <item>Bisalakshmitala</item>
+        <item>Bishnupur</item>
+        <item>Bishpuriya</item>
+        <item>Bisunupur</item>
+        <item>Biswashati</item>
+        <item>Bithari</item>
+        <item>Boalghata</item>
+        <item>Boalia</item>
+        <item>Boardghar</item>
+        <item>Bodra</item>
+        <item>Boga</item>
+        <item>Bohara</item>
+        <item>Boinchee Chowmatha</item>
+        <item>Boincheegram</item>
+        <item>Bokchora</item>
+        <item>Boldeghata</item>
+        <item>Bolpur</item>
+        <item>Bondel Gate</item>
+        <item>Bongaon</item>
+        <item>Bonhooghly</item>
+        <item>Borali Ghat</item>
+        <item>Boropara</item>
+        <item>Bosepukur</item>
+        <item>Bowbazar</item>
+        <item>Boyermari</item>
+        <item>Boyra</item>
+        <item>Brace Bridge</item>
+        <item>Brahmaner More</item>
+        <item>Brajalalchak</item>
+        <item>Brindabanpur</item>
+        <item>Budge Budge</item>
+        <item>Budhigram</item>
+        <item>Building More</item>
+        <item>Buniadpur</item>
+        <item>Burdwan</item>
+        <item>Burdwan Bypass</item>
+        <item>Burdwan Road</item>
+        <item>Burul</item>
+        <item>Burul Bazar</item>
+        <item>CIT Road</item>
+        <item>Calcium More</item>
+        <item>Cancer Hospital</item>
+        <item>Canning</item>
+        <item>Canning Station</item>
+        <item>Carry Road</item>
+        <item>Central Avenue</item>
+        <item>Central Jail</item>
+        <item>Central Metro</item>
+        <item>Central Park</item>
+        <item>Chagram</item>
+        <item>Chaital</item>
+        <item>Chaital Ghat</item>
+        <item>Chaitanyapur</item>
+        <item>Chakberia</item>
+        <item>Chakdah</item>
+        <item>Chakdulalpur</item>
+        <item>Chakla</item>
+        <item>Chaksimla</item>
+        <item>Chalki Bazar</item>
+        <item>Champadanga</item>
+        <item>Champahati</item>
+        <item>Chamrail</item>
+        <item>Chanda</item>
+        <item>Chandaneshwar</item>
+        <item>Chandannagar</item>
+        <item>Chandipur</item>
+        <item>Chanditala</item>
+        <item>Chandkhali</item>
+        <item>Chandni Market</item>
+        <item>Chandpara</item>
+        <item>Chandpur</item>
+        <item>Chandra</item>
+        <item>Chandrakona Town</item>
+        <item>Chandua Bazar</item>
+        <item>Chapaberia</item>
+        <item>Chapadali More</item>
+        <item>Chapadanga</item>
+        <item>Chapatala</item>
+        <item>Chapra</item>
+        <item>Chapuria</item>
+        <item>Charabidya</item>
+        <item>Charapole</item>
+        <item>Charial More</item>
+        <item>Chariswar</item>
+        <item>Chatra Bazar</item>
+        <item>Chemaguri more</item>
+        <item>Chetla Park</item>
+        <item>Chhatna</item>
+        <item>China Mandir</item>
+        <item>Chinar Park</item>
+        <item>Chingrighata</item>
+        <item>Chinsurah Court</item>
+        <item>Chinsurah Station</item>
+        <item>Chiria More</item>
+        <item>Chitpur Bridge</item>
+        <item>Chittaranjan Hospital</item>
+        <item>Choatia</item>
+        <item>Chongda More</item>
+        <item>Chotkhanda</item>
+        <item>Choulpatty</item>
+        <item>Choutara More</item>
+        <item>Chowalkhola</item>
+        <item>Chowbaga</item>
+        <item>Chowdhury Chak</item>
+        <item>Chowmuha</item>
+        <item>Christopher Road</item>
+        <item>Chunakhali</item>
+        <item>Chunavati</item>
+        <item>City Center 1</item>
+        <item>City Center 2</item>
+        <item>College More</item>
+        <item>College Street</item>
+        <item>Colony Bazar</item>
+        <item>Colony More</item>
+        <item>Command Hospital</item>
+        <item>Companir Thek</item>
+        <item>Contai Bus Stand</item>
+        <item>Cossipore</item>
+        <item>Culture More</item>
+        <item>DLF 1</item>
+        <item>DLF 2</item>
+        <item>Dadpur</item>
+        <item>Dakghar</item>
+        <item>Dakshin Barasat</item>
+        <item>Dakshin Battala</item>
+        <item>Dakshin Birampur</item>
+        <item>Dakshin Durgapur</item>
+        <item>Dakshin Ramkrishnapur</item>
+        <item>Dakshineshwar</item>
+        <item>Dalalpukur</item>
+        <item>Dalanghata</item>
+        <item>Dalhousie</item>
+        <item>Dalkhola</item>
+        <item>Dallpur</item>
+        <item>Damodarpur Bazaar</item>
+        <item>Dandirhat</item>
+        <item>Danesh Shaikh Lane</item>
+        <item>Dankuni</item>
+        <item>Dankuni Housing</item>
+        <item>Dankuni Station</item>
+        <item>Darbeshpur</item>
+        <item>Dariapur</item>
+        <item>Darjeeling More</item>
+        <item>Dasghara</item>
+        <item>Dashadrone</item>
+        <item>Dasnagar</item>
+        <item>Daspara</item>
+        <item>Dayarampur Bazar</item>
+        <item>Debagram</item>
+        <item>Debipur</item>
+        <item>Debpukur</item>
+        <item>Debra</item>
+        <item>Deganga</item>
+        <item>Dehibatpur</item>
+        <item>Delhi Road</item>
+        <item>Deorah More</item>
+        <item>Derozio College</item>
+        <item>Deshapriya Park</item>
+        <item>Deshbandhu Road</item>
+        <item>Deular More</item>
+        <item>Deuli</item>
+        <item>Deulpara</item>
+        <item>Dewandighi</item>
+        <item>Dhakuria</item>
+        <item>Dhalai Bridge</item>
+        <item>Dhamakhali</item>
+        <item>Dhamisa</item>
+        <item>Dhaniakhali</item>
+        <item>Dhanmath</item>
+        <item>Dhanpota</item>
+        <item>Dhapa Road</item>
+        <item>Dharampur</item>
+        <item>Dherua</item>
+        <item>Dhibdhiba</item>
+        <item>Dhola</item>
+        <item>Dholahat More</item>
+        <item>Dhopagachi</item>
+        <item>Dhruba Bazar</item>
+        <item>Dhrubabazar</item>
+        <item>Dhubulia</item>
+        <item>Dhukrijhara</item>
+        <item>Dhulagarh</item>
+        <item>Dhulasimla</item>
+        <item>Dhulorbandh</item>
+        <item>Dhuri Bazar</item>
+        <item>Diamond Harbour</item>
+        <item>Diamond Plaza</item>
+        <item>Digha</item>
+        <item>Dighirpar</item>
+        <item>Dihibhursut</item>
+        <item>Dilakhash</item>
+        <item>Dishergarh</item>
+        <item>Dockghat</item>
+        <item>Dogachia</item>
+        <item>Doltala More</item>
+        <item>Domjur</item>
+        <item>Dongaria</item>
+        <item>Doordarshan Bhawan</item>
+        <item>Doperia</item>
+        <item>Dostipur</item>
+        <item>Dulduli</item>
+        <item>Dumdum Canton</item>
+        <item>Dumdum Cantonment</item>
+        <item>Dumdum Park</item>
+        <item>Dumdum Station</item>
+        <item>Dumurdaha</item>
+        <item>Dumurjola</item>
+        <item>Dunlop Bridge</item>
+        <item>Dunlop More</item>
+        <item>Durgachak</item>
+        <item>Durganagar</item>
+        <item>Durgapur Bridge</item>
+        <item>Durgapur City Center</item>
+        <item>Durgapur Expressway</item>
+        <item>Durgapur Station</item>
+        <item>Duttabazar</item>
+        <item>Duttapara</item>
+        <item>Duttaphulia</item>
+        <item>Duttapukur</item>
+        <item>Duttar Math</item>
+        <item>Dwariknagar</item>
+        <item>EM Bypass</item>
+        <item>East Enclave</item>
+        <item>Eco Park</item>
+        <item>Eco Space</item>
+        <item>Eden City</item>
+        <item>Eden Gardens</item>
+        <item>Ekbalpur</item>
+        <item>Eksara More</item>
+        <item>Elgin Road</item>
+        <item>Esplanade</item>
+        <item>Falta</item>
+        <item>Falta Sector 1</item>
+        <item>Farakka</item>
+        <item>Fatehpur</item>
+        <item>Fatikgachi</item>
+        <item>Fishery Gate</item>
+        <item>Foreshore Road</item>
+        <item>Fort William</item>
+        <item>Frazerganj</item>
+        <item>Furfura Sharif</item>
+        <item>Futisanko</item>
+        <item>Gabberia</item>
+        <item>Gabbuni</item>
+        <item>Gabtala Bazar</item>
+        <item>Gadamara</item>
+        <item>Gadarati</item>
+        <item>Gadiara</item>
+        <item>Gadkhali</item>
+        <item>Gaighata</item>
+        <item>Gajar More</item>
+        <item>Gandhi Colony</item>
+        <item>Ganesh Talkies</item>
+        <item>Ganga Nagar</item>
+        <item>Gangadharpur</item>
+        <item>Gangarampur</item>
+        <item>Gangasagar</item>
+        <item>Gangraguri</item>
+        <item>Ganjer Bazar</item>
+        <item>Ganrapota</item>
+        <item>Garcha Road</item>
+        <item>Garchumuk</item>
+        <item>Garden Reach</item>
+        <item>Garfa Road</item>
+        <item>Garh Bhowanipore</item>
+        <item>Garia Bus Stand</item>
+        <item>Garia Metro</item>
+        <item>Garia Station</item>
+        <item>Gariahat</item>
+        <item>Garifa Road</item>
+        <item>Garpa More</item>
+        <item>Gayeshpur</item>
+        <item>Gazna Bazar</item>
+        <item>Gazole</item>
+        <item>Ghasbagan</item>
+        <item>Ghasiara</item>
+        <item>Ghatakpukur</item>
+        <item>Ghatal</item>
+        <item>Ghatboar</item>
+        <item>Ghatur More</item>
+        <item>Ghola Bazar</item>
+        <item>Ghoradaha</item>
+        <item>Ghorir More</item>
+        <item>Ghoshpur</item>
+        <item>Ghushighata</item>
+        <item>Girish Park</item>
+        <item>Goakhali More</item>
+        <item>Goalbagi</item>
+        <item>Goalbathan</item>
+        <item>Goaldaha</item>
+        <item>Gobardanga</item>
+        <item>Gobindapur</item>
+        <item>Gobra Kabarsthan</item>
+        <item>Gobra More</item>
+        <item>Gocharan</item>
+        <item>Gohal Beria</item>
+        <item>Gohaldaha</item>
+        <item>Gokulpur</item>
+        <item>Golabarai PS</item>
+        <item>Golabari</item>
+        <item>Golabari More</item>
+        <item>Golfgreen</item>
+        <item>Golpark</item>
+        <item>Gopalbati</item>
+        <item>Gopalnagar</item>
+        <item>Gopalpur</item>
+        <item>Gopalpur Bazar</item>
+        <item>Gopalpur House</item>
+        <item>Goundia Raghunathpur</item>
+        <item>Gourangachak</item>
+        <item>Gourangapur</item>
+        <item>Gourhati More</item>
+        <item>Gouripur</item>
+        <item>Greenfield City</item>
+        <item>Gujarpur</item>
+        <item>Guma Chowmatha</item>
+        <item>Gurap</item>
+        <item>Gurdah</item>
+        <item>Gurudaspur Hospital More</item>
+        <item>Gurusaday Road</item>
+        <item>Gustia More</item>
+        <item>HMG College</item>
+        <item>Habra Depot</item>
+        <item>Habra Station</item>
+        <item>Hadipur</item>
+        <item>Hagnagari</item>
+        <item>Haidarpur</item>
+        <item>Hajratala</item>
+        <item>Hakimpur</item>
+        <item>Haldia</item>
+        <item>Haldirams</item>
+        <item>Halisahar</item>
+        <item>Haltu Bazar</item>
+        <item>Hamadama</item>
+        <item>Hamidpur</item>
+        <item>Hansia</item>
+        <item>Hanskhali</item>
+        <item>Hanskhali Pole</item>
+        <item>Hanspukur</item>
+        <item>Hantal</item>
+        <item>Hapania</item>
+        <item>Haral</item>
+        <item>Haribashor Park</item>
+        <item>Haridashpur</item>
+        <item>Haridevpur</item>
+        <item>Harinavi</item>
+        <item>Harinbari</item>
+        <item>Harindanga</item>
+        <item>Haripal Station</item>
+        <item>Harit</item>
+        <item>Haroa Bazar</item>
+        <item>Haroa Bridge</item>
+        <item>Harop Bazar</item>
+        <item>Hasnabad</item>
+        <item>Hasnabad Station</item>
+        <item>Hasnan Bridge</item>
+        <item>Hastings</item>
+        <item>Hatgacha</item>
+        <item>Hathatgange</item>
+        <item>Hatiara</item>
+        <item>Hatibagan</item>
+        <item>Hatikanda</item>
+        <item>Hatishala</item>
+        <item>Hatpukur</item>
+        <item>Hatthuba</item>
+        <item>Hatuganj</item>
+        <item>Hatugunge</item>
+        <item>Hazra</item>
+        <item>Hazra More</item>
+        <item>Hedua More</item>
+        <item>Hela Battala</item>
+        <item>Helencha</item>
+        <item>Hemnagar</item>
+        <item>Henria</item>
+        <item>Heria</item>
+        <item>Hide Road</item>
+        <item>High Court</item>
+        <item>Hiland Park</item>
+        <item>Hind Cinema</item>
+        <item>Hingalgunge</item>
+        <item>Hiranmoypur</item>
+        <item>Hoglashi More</item>
+        <item>Hooghly More</item>
+        <item>Hospital More</item>
+        <item>Howrah Fire Station</item>
+        <item>Howrah Maidan</item>
+        <item>Howrah Station</item>
+        <item>Hura</item>
+        <item>IIMC Hospital</item>
+        <item>ITC Infotech</item>
+        <item>Ichapur More</item>
+        <item>Ilambazar</item>
+        <item>Ilsoba</item>
+        <item>Inchura</item>
+        <item>Indranarayanpur</item>
+        <item>Islampur</item>
+        <item>Iswarigacha</item>
+        <item>Jadavpur</item>
+        <item>Jadavpur 8B</item>
+        <item>Jadavpur PS</item>
+        <item>Jadurhati</item>
+        <item>Jagadishpur</item>
+        <item>Jagadishpur Hospital</item>
+        <item>Jagaldaha</item>
+        <item>Jagannathpur</item>
+        <item>Jagardanga</item>
+        <item>Jagatballavpur</item>
+        <item>Jagatdal</item>
+        <item>Jagulgachi</item>
+        <item>Jaguli</item>
+        <item>Jalaberia</item>
+        <item>Jalan Gate</item>
+        <item>Jalilpur</item>
+        <item>Jamalpur More</item>
+        <item>James Long Sarani Crossing</item>
+        <item>Jamirgachi</item>
+        <item>Jamna</item>
+        <item>Jamtala</item>
+        <item>Jangalpara</item>
+        <item>Jangipara</item>
+        <item>Japani Gate</item>
+        <item>Jashoda More</item>
+        <item>Jayrambati</item>
+        <item>Jhargram</item>
+        <item>Jharkhali</item>
+        <item>Jhautala</item>
+        <item>Jhawdanga</item>
+        <item>Jhikira</item>
+        <item>Jhikra Bazar</item>
+        <item>Jhinjhira Bazar</item>
+        <item>Jhorobati</item>
+        <item>Jibantala</item>
+        <item>Jirangachha</item>
+        <item>Jirat</item>
+        <item>Jiudhara</item>
+        <item>Jodhpur Park</item>
+        <item>Jogeshganj Bazar</item>
+        <item>Joka Bridge</item>
+        <item>Joka Depot</item>
+        <item>Jorabagan</item>
+        <item>Joygachi</item>
+        <item>Joygram</item>
+        <item>Joykrishna Bazar</item>
+        <item>Joynagar</item>
+        <item>Joypur</item>
+        <item>Joyrampur</item>
+        <item>Julpia</item>
+        <item>Jumainaskar Hat</item>
+        <item>Jyangra</item>
+        <item>Jyotishpur</item>
+        <item>Kabardanga</item>
+        <item>Kachua More</item>
+        <item>Kachuberia</item>
+        <item>Kachuberia Sagar Island</item>
+        <item>Kadambagachi</item>
+        <item>Kadamtala</item>
+        <item>Kadapara</item>
+        <item>Kahankia</item>
+        <item>Kaijuri Bazar</item>
+        <item>Kaikhali</item>
+        <item>Kajiberia</item>
+        <item>Kajoler More</item>
+        <item>Kakdwip</item>
+        <item>Kakdwip Bus Stand</item>
+        <item>Kakdwip Station</item>
+        <item>Kalaberia</item>
+        <item>Kalachara</item>
+        <item>Kalagachia</item>
+        <item>Kalibabu Bazar</item>
+        <item>Kalidanga</item>
+        <item>Kalighat</item>
+        <item>Kalikapur</item>
+        <item>Kalindi More</item>
+        <item>Kalipark</item>
+        <item>Kalipur More</item>
+        <item>Kalitala</item>
+        <item>Kalitala Housing</item>
+        <item>Kalna</item>
+        <item>Kaltala</item>
+        <item>Kalupur</item>
+        <item>Kalur More</item>
+        <item>Kalyan Nagar</item>
+        <item>Kalyangarh</item>
+        <item>Kalyani AIIMS</item>
+        <item>Kalyani More</item>
+        <item>Kalyanpur</item>
+        <item>Kalyanpur Panchayat</item>
+        <item>Kalyanshree</item>
+        <item>Kamal Talkies</item>
+        <item>Kamalgazi</item>
+        <item>Kamalpur</item>
+        <item>Kamardanga</item>
+        <item>Kamarhati</item>
+        <item>Kamdebpur</item>
+        <item>Kamina More</item>
+        <item>Kampa More</item>
+        <item>Kanchantala</item>
+        <item>Kanchiara</item>
+        <item>Kanchrapara</item>
+        <item>Kankinara</item>
+        <item>Kankurgachi</item>
+        <item>Kanmari Bazar</item>
+        <item>Kanraria</item>
+        <item>Kantamari</item>
+        <item>Kantatala</item>
+        <item>Kanthal Beria</item>
+        <item>Kanthalberia</item>
+        <item>Kanthalia</item>
+        <item>Kanthalibar</item>
+        <item>Kapastikri</item>
+        <item>Kapathat</item>
+        <item>Kapileshwar</item>
+        <item>Karanjali</item>
+        <item>Karatberia</item>
+        <item>Karbala More</item>
+        <item>Karigari Bhawan</item>
+        <item>Karimpur</item>
+        <item>Karolberia</item>
+        <item>Kartickpur</item>
+        <item>Karunamoyee</item>
+        <item>Kasba PS</item>
+        <item>Kasba Post Office</item>
+        <item>Kasba Rathtala</item>
+        <item>Kashinagar</item>
+        <item>Kashipur</item>
+        <item>Katiahat Bazar</item>
+        <item>Katlamari</item>
+        <item>Katlia More</item>
+        <item>Kayosa Bazar</item>
+        <item>Kayrapur</item>
+        <item>Kazipara Depot</item>
+        <item>Kazipara More</item>
+        <item>Kemia More</item>
+        <item>Kendua Bazar</item>
+        <item>Keorapukur</item>
+        <item>Keota</item>
+        <item>Keshabchak Gram Panchayat</item>
+        <item>Kestopur</item>
+        <item>Kestopur Bazar</item>
+        <item>Kestor More</item>
+        <item>Ketopool</item>
+        <item>Keutia</item>
+        <item>Khadina More</item>
+        <item>Khadinan</item>
+        <item>Khalisani</item>
+        <item>Khalna Bazar</item>
+        <item>Khalore More</item>
+        <item>Khandalia</item>
+        <item>Khanna Cinema</item>
+        <item>Khanpur</item>
+        <item>Khanyan</item>
+        <item>Kharagpur Chowrangee</item>
+        <item>Kharampur</item>
+        <item>Khardah</item>
+        <item>Khargram</item>
+        <item>Kharibari</item>
+        <item>Khariberia</item>
+        <item>Kharuberia</item>
+        <item>Khasmallick</item>
+        <item>Khasnan</item>
+        <item>Khatura Bazar</item>
+        <item>Khejurdaha</item>
+        <item>Khejuri</item>
+        <item>Khejuria</item>
+        <item>Khejurtala</item>
+        <item>Khidderpore</item>
+        <item>Khila</item>
+        <item>Khilkapur</item>
+        <item>Khirishtala</item>
+        <item>Khirpai</item>
+        <item>Kholakhali Hat</item>
+        <item>Kholapota</item>
+        <item>Khosdelpur</item>
+        <item>Khotirbazar</item>
+        <item>Khudiram Park</item>
+        <item>Kishanganj</item>
+        <item>Kishorepur</item>
+        <item>Kishorimohonpur</item>
+        <item>Kokapur</item>
+        <item>Kolaghat</item>
+        <item>Kolashim Bazar</item>
+        <item>Koldanga</item>
+        <item>Kolkata Station</item>
+        <item>Kona More</item>
+        <item>Konchmali</item>
+        <item>Konnagar</item>
+        <item>Kowgachi</item>
+        <item>Koyaldanga</item>
+        <item>Krishnabati</item>
+        <item>Krishnachandrapur</item>
+        <item>Krishnamati</item>
+        <item>Krishnanagar</item>
+        <item>Krishnarampur</item>
+        <item>Kudghat</item>
+        <item>Kulepairi</item>
+        <item>Kulgachia</item>
+        <item>Kuli</item>
+        <item>Kuliagarh</item>
+        <item>Kuliapara</item>
+        <item>Kulpi</item>
+        <item>Kulpukur</item>
+        <item>Kultali</item>
+        <item>Kultali Bazar</item>
+        <item>Kulti</item>
+        <item>Kumartuli</item>
+        <item>Kumirmari Bazar</item>
+        <item>Kumirmora</item>
+        <item>Kundubari</item>
+        <item>Kuntighat</item>
+        <item>Kushangra</item>
+        <item>Kushodanaga</item>
+        <item>Kustia More</item>
+        <item>Labony Estate</item>
+        <item>Ladhurka</item>
+        <item>Lake Gardens</item>
+        <item>Laketown</item>
+        <item>Lakshmi More</item>
+        <item>Lakshmikantapur Station</item>
+        <item>Lakshminarayanpur</item>
+        <item>Lalbaba College</item>
+        <item>Lalbazar</item>
+        <item>Lalpur</item>
+        <item>Langolpota</item>
+        <item>Lansdowne</item>
+        <item>Lauhati</item>
+        <item>Layalka</item>
+        <item>Leather Complex</item>
+        <item>Lebukhali</item>
+        <item>Leninnagar</item>
+        <item>Light House</item>
+        <item>Liluah</item>
+        <item>Liluah Station</item>
+        <item>Lokenath Mandir</item>
+        <item>MG Road</item>
+        <item>ML Gupta Road</item>
+        <item>Machhlandapur</item>
+        <item>Madanmohantala</item>
+        <item>Madartala</item>
+        <item>Madhabpur</item>
+        <item>Madhabpur More</item>
+        <item>Madhuban</item>
+        <item>Madhusankati</item>
+        <item>Madhyamgram</item>
+        <item>Magra Bazar</item>
+        <item>Magurkhali</item>
+        <item>Mahabirtala</item>
+        <item>Mahamayatala</item>
+        <item>Mahanad</item>
+        <item>Mahesh Bazar</item>
+        <item>Maheshwarpur</item>
+        <item>Mahishadal</item>
+        <item>Mahishgari</item>
+        <item>Mahishrekha</item>
+        <item>Mahjerhat</item>
+        <item>Maidan</item>
+        <item>Maidan Metro</item>
+        <item>Maipith</item>
+        <item>Maipith Bazar</item>
+        <item>Maipith Coastal</item>
+        <item>Maitapukur Bus Stand</item>
+        <item>Majherhat</item>
+        <item>Majlishpur</item>
+        <item>Makalpur Bazar</item>
+        <item>Makardaha</item>
+        <item>Makrampur</item>
+        <item>Malancha</item>
+        <item>Malancha Cinema</item>
+        <item>Malapara</item>
+        <item>Malatipur</item>
+        <item>Malda</item>
+        <item>Malipanchghara</item>
+        <item>Malipota</item>
+        <item>Mallick Bazar</item>
+        <item>Mallick Fatak</item>
+        <item>Mallickbazar</item>
+        <item>Mallickpur</item>
+        <item>Mamudpur</item>
+        <item>Mandabtala</item>
+        <item>Mandalerhat</item>
+        <item>Mandirbazar</item>
+        <item>Mandirtala</item>
+        <item>Manik Khola</item>
+        <item>Manikpir More</item>
+        <item>Manikpur</item>
+        <item>Maniktala</item>
+        <item>Manjushree More</item>
+        <item>Mankundu</item>
+        <item>Mankur More</item>
+        <item>Mashat Market</item>
+        <item>Masjidbati</item>
+        <item>Matapara</item>
+        <item>Matgaran</item>
+        <item>Mathkal</item>
+        <item>Mathpukur</item>
+        <item>Mathrangi</item>
+        <item>Mathurapur Station</item>
+        <item>Matia Bridge</item>
+        <item>Matikumra</item>
+        <item>Matla Bridge</item>
+        <item>Mayapur</item>
+        <item>Mayo Road</item>
+        <item>Mayramahal</item>
+        <item>Mazompur</item>
+        <item>Mearbere More</item>
+        <item>Mecheda</item>
+        <item>Mechogram</item>
+        <item>Medical College</item>
+        <item>Meherani</item>
+        <item>Memari</item>
+        <item>Metekhali</item>
+        <item>Metiabruz</item>
+        <item>Metiabruz SSP Hospital</item>
+        <item>Metropolitan</item>
+        <item>Michael Nagar</item>
+        <item>Midnapore Town</item>
+        <item>Milan More</item>
+        <item>Milk Colony</item>
+        <item>Minakhan</item>
+        <item>Minto Park</item>
+        <item>Mirhati More</item>
+        <item>Mission Pally</item>
+        <item>Mithpukuria</item>
+        <item>Mittirchak</item>
+        <item>Mogra</item>
+        <item>Mohanbati</item>
+        <item>Mohani more</item>
+        <item>Mohanpur</item>
+        <item>Mohirampur</item>
+        <item>Mollarchak</item>
+        <item>Mollargate</item>
+        <item>Mominpore</item>
+        <item>Mondolai</item>
+        <item>Mondonpara</item>
+        <item>Mondourie</item>
+        <item>Moonbeam</item>
+        <item>Morgram</item>
+        <item>Mosat</item>
+        <item>Motigunge</item>
+        <item>Moulali More</item>
+        <item>Mourigram</item>
+        <item>Moyna Checkpost</item>
+        <item>Moynagarh</item>
+        <item>Muchighata</item>
+        <item>Muchipara</item>
+        <item>Mudiali More</item>
+        <item>Mugkalyan</item>
+        <item>Mukundapur</item>
+        <item>Munshirhat</item>
+        <item>Muragacha</item>
+        <item>Murarishah Chowmatha</item>
+        <item>Muthurapur</item>
+        <item>NSHM Campus</item>
+        <item>Nababpur</item>
+        <item>Nabanna</item>
+        <item>Nabatkati</item>
+        <item>Nabgram More</item>
+        <item>Nachinda</item>
+        <item>Nafargange</item>
+        <item>Nagalbeki</item>
+        <item>Nagardanga</item>
+        <item>Nagarukhra</item>
+        <item>Nagerbazar</item>
+        <item>Nahata</item>
+        <item>Naihati Station</item>
+        <item>Najirpur</item>
+        <item>Nakpul Bazar</item>
+        <item>Naksa</item>
+        <item>Naktala</item>
+        <item>Nalmuri</item>
+        <item>Namkhana</item>
+        <item>Namkhana Station</item>
+        <item>Nandakumar</item>
+        <item>Nandi Bagan</item>
+        <item>Narayana Hospital</item>
+        <item>Narayanpur</item>
+        <item>Narayantala</item>
+        <item>Narendrapur</item>
+        <item>Narghat</item>
+        <item>Narikelabar</item>
+        <item>Narit</item>
+        <item>Narkelbagan</item>
+        <item>Narkelberia</item>
+        <item>Naskarpara</item>
+        <item>Nataberia</item>
+        <item>Natagachi</item>
+        <item>Natagarh</item>
+        <item>Natun Rasta</item>
+        <item>Natun Rastar More</item>
+        <item>Natunhat</item>
+        <item>Natunpukur</item>
+        <item>Nature Park</item>
+        <item>Nayabad</item>
+        <item>Nazat</item>
+        <item>Nazirgunge</item>
+        <item>Neamatpur</item>
+        <item>Nelorpar</item>
+        <item>Nepakuli</item>
+        <item>Nepalgunge</item>
+        <item>Netaji Nagar</item>
+        <item>New Alipore</item>
+        <item>New Barrackpore</item>
+        <item>New Garia</item>
+        <item>Newtown</item>
+        <item>Nibra More</item>
+        <item>Nicco Park</item>
+        <item>Nilgunge</item>
+        <item>Nima Terasta</item>
+        <item>Nimchi Bazar</item>
+        <item>Nimdighi</item>
+        <item>Nimpith</item>
+        <item>Nimta Bazar</item>
+        <item>Nimtala</item>
+        <item>Nimtouri</item>
+        <item>Nirdeshkhali</item>
+        <item>Nirman</item>
+        <item>Nischintipur</item>
+        <item>Nituria</item>
+        <item>Noapara</item>
+        <item>Nodakhali</item>
+        <item>Noongola</item>
+        <item>Noorpur</item>
+        <item>Norghat</item>
+        <item>Norja More</item>
+        <item>Notun Rastar</item>
+        <item>Noul Bazar</item>
+        <item>Nungi More</item>
+        <item>Nuntia More</item>
+        <item>Nurpur</item>
+        <item>ONGC More</item>
+        <item>Old Dakghar</item>
+        <item>Omarpur</item>
+        <item>PTS More</item>
+        <item>Pabnapara</item>
+        <item>Padmalavpur</item>
+        <item>Padmapukur</item>
+        <item>Padmerhat</item>
+        <item>Paglarhat</item>
+        <item>Paikan</item>
+        <item>Paikpara</item>
+        <item>Pailan</item>
+        <item>Pakdaha</item>
+        <item>Palashi</item>
+        <item>Palashipara</item>
+        <item>Palbazar</item>
+        <item>Pallagram</item>
+        <item>Palmer Bazar</item>
+        <item>Palsanda</item>
+        <item>Palta</item>
+        <item>Palta Bazar</item>
+        <item>Paltadanga</item>
+        <item>Panagarh</item>
+        <item>Panagarh Bypass</item>
+        <item>Panchanantala</item>
+        <item>Pancharul</item>
+        <item>Panchkari More</item>
+        <item>Panchla</item>
+        <item>Panchpota</item>
+        <item>Pandua</item>
+        <item>Panikhali</item>
+        <item>Panpur More</item>
+        <item>Panrui</item>
+        <item>Panskura Bazar</item>
+        <item>Par Hasnabad</item>
+        <item>Parbelia</item>
+        <item>Pardankuni</item>
+        <item>Park Circus</item>
+        <item>Park Street</item>
+        <item>Parnasree</item>
+        <item>Parthapur</item>
+        <item>Paschim Tajpur</item>
+        <item>Pateswari Mandir</item>
+        <item>Patghara</item>
+        <item>Patharberia More</item>
+        <item>Patharghata</item>
+        <item>Patharpratima</item>
+        <item>Patinan</item>
+        <item>Patipukur</item>
+        <item>Patkelpota</item>
+        <item>Patshimulia</item>
+        <item>Patuli More</item>
+        <item>Payragacha</item>
+        <item>Payragachi</item>
+        <item>Peerless Hospital</item>
+        <item>Peror More</item>
+        <item>Petkulchand Bazar</item>
+        <item>Phoolbagan</item>
+        <item>Phooltala</item>
+        <item>Phulia</item>
+        <item>Picnic Garden</item>
+        <item>Pifa Bazar</item>
+        <item>Pilkhana More</item>
+        <item>Pirnagar</item>
+        <item>Pirtala</item>
+        <item>Pitambara</item>
+        <item>Piyasara</item>
+        <item>Poddar Court</item>
+        <item>Podder Court</item>
+        <item>Podra Bazar</item>
+        <item>Polerhat</item>
+        <item>Polerhat more</item>
+        <item>Posta Bazar</item>
+        <item>Power House</item>
+        <item>Prasadpur</item>
+        <item>Princep Ghat</item>
+        <item>Priyor More</item>
+        <item>Puinan</item>
+        <item>Pukuria Hat</item>
+        <item>Purandarpur</item>
+        <item>Purandarur</item>
+        <item>Purash</item>
+        <item>Puratan Bazar</item>
+        <item>Puratan Bongaon</item>
+        <item>Purta Bhawan</item>
+        <item>Purulia</item>
+        <item>Quest Mall</item>
+        <item>RG Kar Hospital</item>
+        <item>RN Chowdhury Road</item>
+        <item>Rabindra Nagar</item>
+        <item>Rabindra Sadan</item>
+        <item>Rabindra Sarani</item>
+        <item>Rabindra Sarovar</item>
+        <item>Radhadashi</item>
+        <item>Radhamoni</item>
+        <item>Radhanagar</item>
+        <item>Radhapur</item>
+        <item>Rafipur</item>
+        <item>Raghabkati</item>
+        <item>Raghunathpur</item>
+        <item>Rahana Bazar</item>
+        <item>Rahara Bazar</item>
+        <item>Rahatpur</item>
+        <item>Rahimpur</item>
+        <item>Raichak</item>
+        <item>Raichak More</item>
+        <item>Raidighi</item>
+        <item>Raiganj</item>
+        <item>Raipur</item>
+        <item>Raja Rammohan Roy Road</item>
+        <item>Rajabagan</item>
+        <item>Rajabajar</item>
+        <item>Rajabazar</item>
+        <item>Rajapur</item>
+        <item>Rajarhat</item>
+        <item>Rajarhat Chowmatha</item>
+        <item>Rajbalhat</item>
+        <item>Rajballavpara</item>
+        <item>Rajberia</item>
+        <item>Rajchandrapur</item>
+        <item>Rajgunge</item>
+        <item>Rajpur Bazar</item>
+        <item>Rambati</item>
+        <item>Ramchandrapur</item>
+        <item>Ramdhari</item>
+        <item>Rameshwar</item>
+        <item>Ramganga</item>
+        <item>Ramganga BDO Office</item>
+        <item>Ramgarh</item>
+        <item>Ramhatitala</item>
+        <item>Ramlal Bazar</item>
+        <item>Ramnagar</item>
+        <item>Ramnarayanpur</item>
+        <item>Rampur</item>
+        <item>Rampur Quarter</item>
+        <item>Rampurhat</item>
+        <item>Ramrajatala</item>
+        <item>Ranaghat</item>
+        <item>Rangapur</item>
+        <item>Raniganj</item>
+        <item>Ranihati</item>
+        <item>Ranikuthi</item>
+        <item>Rasapunja</item>
+        <item>Rashbehari</item>
+        <item>Rashmoni More</item>
+        <item>Rathtala</item>
+        <item>Rathtala More</item>
+        <item>Ratneshwarpur</item>
+        <item>Reckjuani</item>
+        <item>Rejinagar</item>
+        <item>Rishra</item>
+        <item>Roy Bahadur Road</item>
+        <item>Ruby Hospital</item>
+        <item>Rudranagar</item>
+        <item>Rudrapur</item>
+        <item>Ruiya Purbapara</item>
+        <item>Rupmari Bazar</item>
+        <item>SDF More</item>
+        <item>SM Nagar</item>
+        <item>Sadarpur</item>
+        <item>Saduli</item>
+        <item>Sahagunj</item>
+        <item>Sahararhat</item>
+        <item>Saheb Colony</item>
+        <item>Saheed Nagar</item>
+        <item>Sahidnagar</item>
+        <item>Saihati</item>
+        <item>Sajirhat</item>
+        <item>Sajnaberia</item>
+        <item>Sakher Bazar</item>
+        <item>Salap More</item>
+        <item>Salkia Chowrasta</item>
+        <item>Saltlake</item>
+        <item>Saltlake 12no. Tank</item>
+        <item>Saltlake 13no. Tank</item>
+        <item>Saltlake 14no. Tank</item>
+        <item>Saltlake 16no. Tank</item>
+        <item>Saltlake 206</item>
+        <item>Saltlake 4no. Tank</item>
+        <item>Saltlake 7no. Tank</item>
+        <item>Saltlake 9no. Tank</item>
+        <item>Saltlake C.A. Block</item>
+        <item>Saltlake Gate</item>
+        <item>Saltlake P.N.B</item>
+        <item>Saltlake PNB</item>
+        <item>Saltlake Stadium</item>
+        <item>Salua Bazar</item>
+        <item>Samshernagar</item>
+        <item>Sangrampur</item>
+        <item>Sankizahan</item>
+        <item>Sankrail</item>
+        <item>Sanksaharpukur</item>
+        <item>Santoshpur</item>
+        <item>Santoshpur Station</item>
+        <item>Santragachi</item>
+        <item>Saptapally More</item>
+        <item>Sapuipara</item>
+        <item>Sarada Park</item>
+        <item>Sarapul</item>
+        <item>Sarasberia</item>
+        <item>Sarberia</item>
+        <item>Sarisha</item>
+        <item>Sarisha 246 more</item>
+        <item>Sarisha More</item>
+        <item>Sarkarpool</item>
+        <item>Sarsuna</item>
+        <item>Sashtir More</item>
+        <item>Satyabala</item>
+        <item>Science City</item>
+        <item>Sealdah Station</item>
+        <item>Sech Bhawan</item>
+        <item>Sector V</item>
+        <item>Sehagori</item>
+        <item>Sendanga Bajar</item>
+        <item>Senerdanga</item>
+        <item>Serampore</item>
+        <item>Shaktigarh</item>
+        <item>Shakuntala Park</item>
+        <item>Shalimar Station</item>
+        <item>Shamali</item>
+        <item>Shamukpota</item>
+        <item>Shankchura Bazar</item>
+        <item>Shanpur More</item>
+        <item>Shantipur</item>
+        <item>Shantipur Bypass</item>
+        <item>Shapoorji</item>
+        <item>Shasan</item>
+        <item>Shasan Bazar</item>
+        <item>Shasati More</item>
+        <item>Sheakhala</item>
+        <item>Sheoraphuli</item>
+        <item>Shibanipith</item>
+        <item>Shiberhana</item>
+        <item>Shibganj Bazar</item>
+        <item>Shibgunge</item>
+        <item>Shibpur Bazar</item>
+        <item>Shibpur TD</item>
+        <item>Shibrampur</item>
+        <item>Shibtala Math</item>
+        <item>Shikharpur</item>
+        <item>Shikra More</item>
+        <item>Shilpara</item>
+        <item>Shimulberia</item>
+        <item>Shimulpur</item>
+        <item>Shimultala</item>
+        <item>Shirakole</item>
+        <item>Shirishtala</item>
+        <item>Shonepur</item>
+        <item>Shrikole More</item>
+        <item>Shyamasree</item>
+        <item>Shyambazar</item>
+        <item>Shyamnagar</item>
+        <item>Shyampur</item>
+        <item>Sibanagar</item>
+        <item>Siddhiberia</item>
+        <item>Siliguri</item>
+        <item>Sindrani</item>
+        <item>Singarkone</item>
+        <item>Sinthee</item>
+        <item>Sinthee More</item>
+        <item>Sipaigachi</item>
+        <item>Sirishtala</item>
+        <item>Siriti More</item>
+        <item>Sishu Mangal</item>
+        <item>Sitalia</item>
+        <item>Sitalpur</item>
+        <item>Sitapur</item>
+        <item>Situri</item>
+        <item>Sobedatala</item>
+        <item>Sodepur</item>
+        <item>Sodepur Girja</item>
+        <item>Sodepur Station</item>
+        <item>Sohai Bazar</item>
+        <item>Somragarh</item>
+        <item>Sonakhali</item>
+        <item>Sonakhali Bus Stand</item>
+        <item>Sonarpur</item>
+        <item>Sonarpur Station</item>
+        <item>Sondalia Bablatala</item>
+        <item>Sondalia Station</item>
+        <item>Sorai</item>
+        <item>South Bishnupur</item>
+        <item>South City</item>
+        <item>Southern Avenue</item>
+        <item>Sovabazar</item>
+        <item>Sreebhumi</item>
+        <item>Sreepally</item>
+        <item>Srichanda</item>
+        <item>Stadium Island</item>
+        <item>Subarnapur</item>
+        <item>Subhash Colony</item>
+        <item>Subhash Sarobar</item>
+        <item>Subidpur</item>
+        <item>Sugandha More</item>
+        <item>Sujapur</item>
+        <item>Sukanta Nagar</item>
+        <item>Sukanta Park</item>
+        <item>Sukhobrishti More</item>
+        <item>Sunderban Chowmatha</item>
+        <item>Sundia</item>
+        <item>Suri</item>
+        <item>Surkikal</item>
+        <item>Surulia</item>
+        <item>Suryasen Nagar</item>
+        <item>Sushrut Hospital</item>
+        <item>Sutahata</item>
+        <item>Sutia</item>
+        <item>Swarupnagar</item>
+        <item>Swastha Bhawan</item>
+        <item>Taki Chowrangee</item>
+        <item>Talandu</item>
+        <item>Taldi</item>
+        <item>Tangra</item>
+        <item>Tangra More</item>
+        <item>Tantirhat</item>
+        <item>Taragunia</item>
+        <item>Tarakeswar</item>
+        <item>Taranipur</item>
+        <item>Tarapith</item>
+        <item>Tarar More</item>
+        <item>Taratala</item>
+        <item>Tata Cancer Hospital</item>
+        <item>Teghari More</item>
+        <item>Tegharia</item>
+        <item>Tehatta</item>
+        <item>Tematha</item>
+        <item>Tentulia</item>
+        <item>Tentulia Bazar</item>
+        <item>Thakdari</item>
+        <item>Thakurpukur</item>
+        <item>Thanapara</item>
+        <item>Tikiapara</item>
+        <item>Tikiapara Bypass</item>
+        <item>Titagarh</item>
+        <item>Tobin Road</item>
+        <item>Tollygunge Metro</item>
+        <item>Tollygunge Phari</item>
+        <item>Topsia More</item>
+        <item>Tribeni</item>
+        <item>Trimohini</item>
+        <item>Tulshiberia</item>
+        <item>Tulsighata</item>
+        <item>UEM Campus</item>
+        <item>Udang Bazar</item>
+        <item>Udaynarayanpur</item>
+        <item>Ukilerhat</item>
+        <item>Ultadanga</item>
+        <item>Uluberia</item>
+        <item>Unitech Gate</item>
+        <item>Unitech Gate 1</item>
+        <item>Unitech Gate 2</item>
+        <item>Usthi</item>
+        <item>Uttar Chandipur</item>
+        <item>Uttar Panchannagram</item>
+        <item>Uttar Ramkrishnapur</item>
+        <item>Uttar Sonakhali</item>
+        <item>Uttarbhag</item>
+        <item>Uttarpara</item>
+        <item>VIP Bazar</item>
+        <item>Vastara</item>
+        <item>Vedic Village</item>
+        <item>Vidyasagar Setu</item>
+        <item>Vivekananda Road</item>
+        <item>Wellington</item>
+        <item>Wipro More</item>
+        <item>Wireless More</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>
